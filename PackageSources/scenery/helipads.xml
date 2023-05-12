@@ -8,8 +8,17 @@
 	<SceneryObject groupIndex="3" lat="63.41987199997326" lon="10.38573500001581" alt="39.80760516002312" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+	<SceneryObject groupIndex="10" lat="67.65456599997358" lon="12.72698499998287" alt="24.79689359644371" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+	</SceneryObject>
 	<!--SceneryObject name: Pad_Circle-->
 	<SceneryObject groupIndex="1" lat="63.41987199995040" lon="10.38573500001280" alt="15.53534296877358" pitch="0.000000" bank="0.000000" heading="-161.439636" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoSnow/>
+		<LibraryObject name="{0F22934F-8739-42B7-8C6D-3C3A4689D104}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Pad_Circle-->
+	<SceneryObject groupIndex="9" lat="67.65456599988890" lon="12.72698499998291" alt="0.54670432979837" pitch="0.001428" bank="-0.001428" heading="-145.483303" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<NoSnow/>
 		<LibraryObject name="{0F22934F-8739-42B7-8C6D-3C3A4689D104}" scale="1.000000"/>
 	</SceneryObject>
@@ -24,18 +33,29 @@
 	<SceneryObject groupIndex="2" lat="63.41991904164912" lon="10.38627293973570" alt="12.32805690892023" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
-	<Airport groupIndex="7" groupID="2" groupGenerated="FALSE" region="Rogaland" country="Norway" state="Rogaland" city="Stavanger" name="Stavanger Universitetssykehus" ident="ENSX" lat="58.95208300000000" lon="5.73090400000000" alt="129.57881607487798" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="2" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="58.95208937482570" lon="5.73093613205361" heading="198.560364" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="2" type="NONE" lat="58.95210002288778" lon="5.73094479154863" alt="36.63064572215080" heading="-178.830521" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="58.95210002288778" lon="5.73094479154863" alt="37.36519403476268" heading="198.56036376953125"/>
+	<SceneryObject groupIndex="11" lat="67.65453186280345" lon="12.72543717034115" alt="0.00444514003627" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windsock" scale="1.000000"/>
+	</SceneryObject>
+	<Airport groupIndex="7" groupID="1" groupGenerated="FALSE" region="Rogaland" country="Norway" state="Rogaland" city="Stavanger" name="Stavanger Universitetssykehus" ident="ENSX" lat="58.95208300000000" lon="5.73090400000000" alt="129.57881607487798" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="1" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="58.95208937482570" lon="5.73093613205361" heading="-178.740409" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="1" type="NONE" lat="58.95210002288778" lon="5.73094479154863" alt="36.63064572215080" heading="-178.740409" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="58.95210002288778" lon="5.73094479154863" alt="37.36519403476268" heading="-178.740409"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="4" groupID="1" groupGenerated="FALSE" region="Trøndelag" country="Norway" state="Trøndelag" city="Trondheim" name="St. Olavs hospital" ident="ENTR" lat="63.41987200000000" lon="10.38573500000000" alt="129.57881607487798" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="1" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="63.41987199995960" lon="10.38573499994604" heading="198.560364" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="1" type="NONE" lat="63.41987199994994" lon="10.38573500002907" alt="30.24360819160938" heading="198.560364" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="4" groupID="2" groupGenerated="FALSE" region="Trøndelag" country="Norway" state="Trøndelag" city="Trondheim" name="St. Olavs hospital" ident="ENTR" lat="63.41987200000000" lon="10.38573500000000" alt="129.57881607487798" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="2" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="63.41987199995960" lon="10.38573499994604" heading="198.560364" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="2" type="NONE" lat="63.41987199994994" lon="10.38573500002907" alt="30.24360819160938" heading="198.560364" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="63.41987199994994" lon="10.38573500002907" alt="30.97815650422126" heading="198.56036376953125"/>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+	<Airport groupIndex="8" groupID="3" groupGenerated="FALSE" region="Nordland" country="Norway" state="Nordland" city="Sørland" name="Værøy Heliport" ident="ENVR" lat="67.65456600000000" lon="12.72698500000000" alt="129.57881607487798" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="3" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="67.65456600000053" lon="12.72698500001452" heading="214.516693" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="3" type="NONE" lat="67.65456599997277" lon="12.72698499996749" alt="1.72697903867811" heading="214.516693" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="67.65456599997277" lon="12.72698499996749" alt="2.46152735128999" heading="214.51669311523438"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
