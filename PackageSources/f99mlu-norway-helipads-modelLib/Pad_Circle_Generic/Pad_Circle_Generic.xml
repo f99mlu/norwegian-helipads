@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="{9d707dca-8243-4eaf-983b-51d12d77d2bf}" version="1.1">
+	<LODS>
+		<LOD minSize="0" ModelFile="Pad_Circle_Generic.gltf"/>
+	</LODS>
+</ModelInfo>
