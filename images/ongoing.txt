@@ -1,6 +1,87 @@
-67.654566, 12.726985
-Værøy Heliport
+66.017850, 12.615968
+Sandnessjøen helikopterplass, sykehuset
+Sandnessjøen
 Nordland 
-ENVR
+ENSJ
+square
+
+
+68.795742, 16.525631
+Harstad helikopterplass, sykehuset
+Harstad
+Troms
+ENHH
+square
+
+
+60.765729, 4.732999
+Fedje helikopterplass, Høgden
+Fedje
+Vestland
+ENFJ
+square
+
+
+60.379891, 5.346037
+Bergen Heliport, Grønneviksøren
+Bergen
+Hordaland
+ENBG
+square
+
+
+58.467460, 8.754061
+Arendal Heliport, Hospital
+Arendal
+Agder
+ENAR
+circle
+
+
+74.50476798869478, 19.000109231273612
+Bjørnøya Heliport
+Bjørnøya
+Svalbard
+ENBJ
+square
+
+
+59.747808, 10.197437
+Drammen helikopterplass, sykehuset
+Drammen
+Viken
+ENDH
+circle
+
+
+59.932175, 10.986857
+Lørenskog helikopterplass, AHUS
+Oslo
+Viken
+ENLX
+circle
+
+
+59.273256, 10.416284
+Tønsberg helikopterplass, sykehuset
+Tønsberg
+Vestfold
+ENTH
+circle
+
+
+76.50810905994128, 25.013671548455182
+Hopen Heliport
+Hopen
+Svalbard
+ENHO
+square
+
+
+59.483599, 6.272299
+Suldal helikopterplass, Sand
+Sand
+Rogaland
+ENSC
 circle
 
