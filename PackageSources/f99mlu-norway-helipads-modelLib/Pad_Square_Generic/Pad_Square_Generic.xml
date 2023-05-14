@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ModelInfo guid="{4f93f15d-9cc6-4fc0-9293-f9e07102cc81}" version="1.1">
+<ModelInfo guid="{e7a73961-eaee-4064-971c-dfc10c957eae}" version="1.1">
 	<LODS>
 		<LOD minSize="0" ModelFile="Pad_Square_Generic.gltf"/>
 	</LODS>
