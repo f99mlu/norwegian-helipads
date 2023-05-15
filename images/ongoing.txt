@@ -1,51 +1,14 @@
-61.456328, 5.890344
 Førde helikopterplass, sjukehuset
-Førde
-Sogn
-ENFD
-Circle
-
-62.736995, 7.135607
 Molde helikopterplass, sykehuset
-Molde
-Møre
-ENMP
-Circle
-
-64.469985, 11.504092
 Namsos helikopterplass, sykehuset
-Namsos
-Trøndelag
-ENNH
-Square
-
-63.107573, 7.723263
 Kristiansund helikopterplass, sykehuset
-Kristiansund
-Møre
-ENKS
-Circle
-
-63.741972,11.286746
 Levanger helikopterplass, sykehuse
-Levanger
-Trøndelag
-ENYY
-Circle
-
-68.779662, 16.595510
 Harstad helikopterplass, Stangnes syd
-Harstad
-Troms
-ENHR
-Circle
-
-78.061302,13.622623
 Isfjord Heliport
-Isfjord
-Svalbard
-ENIS
-Square
+Stokmarknes helikopterplass, Nordlandssykehuset
+
+
+
 
 68.558651, 14.908117
 Stokmarknes helikopterplass, Nordlandssykehuset
@@ -53,3 +16,5 @@ Stokmarknes
 Nordland
 ENSK
 Circle
+
+
