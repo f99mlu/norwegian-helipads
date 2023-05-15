@@ -8,13 +8,16 @@ Isfjord Heliport
 Stokmarknes helikopterplass, Nordlandssykehuset
 Sandviken Heliport
 Oslo helikopterplass, Ullevål
-
-
-
-67.283312, 14.397012
 Nordlandssykehuset Bodø
-Bodø
-Nordland
-ENZE
+Oslo helikopterplass, Rikshospitalet
+Kristiansand helikopterplass, sykehuset
+
+
+
+58.164133, 7.981790
+Kristiansand helikopterplass, sykehuset
+Kristiansand
+Agder
+ENKH
 Circle
 
