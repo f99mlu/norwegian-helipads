@@ -6,15 +6,15 @@ Levanger helikopterplass, sykehuse
 Harstad helikopterplass, Stangnes syd
 Isfjord Heliport
 Stokmarknes helikopterplass, Nordlandssykehuset
+Sandviken Heliport
+Oslo helikopterplass, Ullevål
 
 
 
-
-68.558651, 14.908117
-Stokmarknes helikopterplass, Nordlandssykehuset
-Stokmarknes
-Nordland
-ENSK
+59.936205, 10.736577
+Oslo helikopterplass, Ullevål
+Oslo
+Oslo
+ENUH
 Circle
-
 

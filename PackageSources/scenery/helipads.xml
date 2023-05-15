@@ -41,11 +41,19 @@
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Light_Warm-->
+	<SceneryObject groupIndex="158" lat="59.93620500000000" lon="10.73657700000000" alt="2.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
 	<SceneryObject groupIndex="113" lat="60.14907686761356" lon="10.25514133885560" alt="17.38649852232959" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Light_Warm-->
 	<SceneryObject groupIndex="51" lat="60.37986983295823" lon="5.34607199641247" alt="19.32613178855277" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+	<SceneryObject groupIndex="162" lat="60.40931000000000" lon="5.31702100000000" alt="2.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Light_Warm-->
@@ -202,7 +210,17 @@
 		<LibraryObject name="{0C5909F3-788B-4E58-8A13-3918E5E75BBF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Pad_Circle-->
+	<SceneryObject groupIndex="159" lat="59.93620500000000" lon="10.73657700000000" alt="2.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoSnow/>
+		<LibraryObject name="{0C5909F3-788B-4E58-8A13-3918E5E75BBF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Pad_Circle-->
 	<SceneryObject groupIndex="114" lat="60.14907990899192" lon="10.25513086008172" alt="0.02396884290880" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoSnow/>
+		<LibraryObject name="{0C5909F3-788B-4E58-8A13-3918E5E75BBF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Pad_Circle-->
+	<SceneryObject groupIndex="163" lat="60.40931000000000" lon="5.31702100000000" alt="2.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<NoSnow/>
 		<LibraryObject name="{0C5909F3-788B-4E58-8A13-3918E5E75BBF}" scale="1.000000"/>
 	</SceneryObject>
@@ -378,10 +396,16 @@
 	<SceneryObject groupIndex="70" lat="59.93239939532134" lon="10.98700856921286" alt="-0.01892592589712" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
+	<SceneryObject groupIndex="160" lat="59.93620500000000" lon="10.73657700000000" alt="2.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windsock" scale="1.000000"/>
+	</SceneryObject>
 	<SceneryObject groupIndex="115" lat="60.14872124097859" lon="10.25472036399501" alt="-0.02940577080403" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="53" lat="60.37986677019263" lon="5.34657659027242" alt="0.22356063661169" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windsock" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="164" lat="60.40931000000000" lon="5.31702100000000" alt="2.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="15" lat="60.62982513295736" lon="8.56648657831373" alt="-0.18487113470957" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
@@ -566,6 +590,14 @@
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
+	<Airport groupIndex="165" groupID="39" groupGenerated="FALSE" region="Hordaland" country="Norway" state="Hordaland" city="Bergen" name="Sandviken Heliport" ident="ENBI" lat="60.40931000000000" lon="5.31702100000000" alt="2.00000000000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="39" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.40931000000000" lon="5.31702100000000" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="39" type="NONE" lat="60.40931000000000" lon="5.31702100000000" alt="2.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="60.40931000000000" lon="5.31702100000000" alt="2.00000000000000" heading="0.00000000000000"/>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
 	<Airport groupIndex="62" groupID="6" groupGenerated="FALSE" region="Svalbard" country="Norway" state="Svalbard" city="Bjørnøya" name="Bjørnøya Heliport" ident="ENBJ" lat="74.50476798867113" lon="19.00010923127546" alt="7.58803920634091" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<TaxiwayParking parentGroupID="6" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="74.50476798869185" lon="19.00010923127339" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="6" type="NONE" lat="74.50476798868030" lon="19.00010923127544" alt="7.47033942211419" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -598,236 +630,244 @@
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="129" groupID="31" groupGenerated="FALSE" region="Sogn" country="Norway" state="Sogn" city="Førde" name="Førde helikopterplass, sjukehuset" ident="ENFD" lat="61.45632800000000" lon="5.89034400000000" alt="2.00000000000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="31" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="61.45632800000000" lon="5.89034400000000" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="31" type="NONE" lat="61.45632800000000" lon="5.89034400000000" alt="2.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="129" groupID="10" groupGenerated="FALSE" region="Sogn" country="Norway" state="Sogn" city="Førde" name="Førde helikopterplass, sjukehuset" ident="ENFD" lat="61.45632800000000" lon="5.89034400000000" alt="2.00000000000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="10" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="61.45632800000000" lon="5.89034400000000" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="10" type="NONE" lat="61.45632800000000" lon="5.89034400000000" alt="2.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="61.45632800000000" lon="5.89034400000000" alt="2.00000000000000" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="50" groupID="10" groupGenerated="FALSE" region="Vestland" country="Norway" state="Vestland" city="Fedje" name="Fedje helikopterplass, Høgden" ident="ENFJ" lat="60.76568236207517" lon="4.73310114601814" alt="28.90130215976387" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="10" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.76568598309454" lon="4.73309885463361" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="10" type="NONE" lat="60.76568376714825" lon="4.73310304228562" alt="28.49293475039303" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="50" groupID="11" groupGenerated="FALSE" region="Vestland" country="Norway" state="Vestland" city="Fedje" name="Fedje helikopterplass, Høgden" ident="ENFJ" lat="60.76568236207517" lon="4.73310114601814" alt="28.90130215976387" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="11" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.76568598309454" lon="4.73309885463361" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="11" type="NONE" lat="60.76568376714825" lon="4.73310304228562" alt="28.49293475039303" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="60.76568376714825" lon="4.73310304228562" alt="28.49293475039303" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="46" groupID="11" groupGenerated="FALSE" region="Troms" country="Norway" state="Troms" city="Harstad" name="Harstad helikopterplass, sykehuset" ident="ENHH" lat="68.79574199994831" lon="16.52563100009570" alt="62.59954764787108" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="11" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="68.79574199998001" lon="16.52563099999775" heading="316.815582" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="11" type="NONE" lat="68.79574199993202" lon="16.52563100007292" alt="62.61680836137384" heading="47.999809" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="46" groupID="12" groupGenerated="FALSE" region="Troms" country="Norway" state="Troms" city="Harstad" name="Harstad helikopterplass, sykehuset" ident="ENHH" lat="68.79574199994831" lon="16.52563100009570" alt="62.59954764787108" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="12" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="68.79574199998001" lon="16.52563099999775" heading="316.815582" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="12" type="NONE" lat="68.79574199993202" lon="16.52563100007292" alt="62.61680836137384" heading="47.999809" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="68.79574199993202" lon="16.52563100007292" alt="62.61680836137384" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="79" groupID="12" groupGenerated="FALSE" region="Svalbard" country="Norway" state="Svalbard" city="Hopen" name="Hopen Heliport" ident="ENHO" lat="76.50810905993640" lon="25.01367154845858" alt="4.44194238353521" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="12" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="76.50810905993106" lon="25.01367154852423" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="12" type="NONE" lat="76.50810905991894" lon="25.01367154845848" alt="4.25908827036619" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="79" groupID="13" groupGenerated="FALSE" region="Svalbard" country="Norway" state="Svalbard" city="Hopen" name="Hopen Heliport" ident="ENHO" lat="76.50810905993640" lon="25.01367154845858" alt="4.44194238353521" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="13" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="76.50810905993106" lon="25.01367154852423" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="13" type="NONE" lat="76.50810905991894" lon="25.01367154845848" alt="4.25908827036619" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="76.50810905991894" lon="25.01367154845848" alt="4.25908827036619" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="149" groupID="36" groupGenerated="FALSE" region="Troms" country="Norway" state="Troms" city="Harstad" name="Harstad helikopterplass, Stangnes syd" ident="ENHR" lat="68.77966200000000" lon="16.59551000000000" alt="2.00000000000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="36" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="68.77966200000000" lon="16.59551000000000" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="36" type="NONE" lat="68.77966200000000" lon="16.59551000000000" alt="2.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="149" groupID="14" groupGenerated="FALSE" region="Troms" country="Norway" state="Troms" city="Harstad" name="Harstad helikopterplass, Stangnes syd" ident="ENHR" lat="68.77966200000000" lon="16.59551000000000" alt="2.00000000000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="14" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="68.77966200000000" lon="16.59551000000000" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="14" type="NONE" lat="68.77966200000000" lon="16.59551000000000" alt="2.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="68.77966200000000" lon="16.59551000000000" alt="2.00000000000000" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="112" groupID="13" groupGenerated="FALSE" region="Rogaland" country="Norway" state="Rogaland" city="Haugesund" name="Haugesund helikopterplass, Hauges. sjukehus HF" ident="ENHX" lat="59.40885099999062" lon="5.27956900005218" alt="40.89885331969708" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="13" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.40885100000012" lon="5.27956900000766" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="13" type="NONE" lat="59.40885099999173" lon="5.27956900005211" alt="40.84233951009810" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="112" groupID="15" groupGenerated="FALSE" region="Rogaland" country="Norway" state="Rogaland" city="Haugesund" name="Haugesund helikopterplass, Hauges. sjukehus HF" ident="ENHX" lat="59.40885099999062" lon="5.27956900005218" alt="40.89885331969708" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="15" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.40885100000012" lon="5.27956900000766" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="15" type="NONE" lat="59.40885099999173" lon="5.27956900005211" alt="40.84233951009810" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="59.40885099999173" lon="5.27956900005211" alt="40.84233951009810" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="153" groupID="37" groupGenerated="FALSE" region="Svalbard" country="Norway" state="Svalbard" city="Isfjord" name="Isfjord Heliport" ident="ENIS" lat="78.06130200000000" lon="13.62262300000000" alt="2.00000000000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="37" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="78.06130200000000" lon="13.62262300000000" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="37" type="NONE" lat="78.06130200000000" lon="13.62262300000000" alt="2.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="153" groupID="16" groupGenerated="FALSE" region="Svalbard" country="Norway" state="Svalbard" city="Isfjord" name="Isfjord Heliport" ident="ENIS" lat="78.06130200000000" lon="13.62262300000000" alt="2.00000000000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="16" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="78.06130200000000" lon="13.62262300000000" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="16" type="NONE" lat="78.06130200000000" lon="13.62262300000000" alt="2.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="78.06130200000000" lon="13.62262300000000" alt="2.00000000000000" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="141" groupID="34" groupGenerated="FALSE" region="Møre" country="Norway" state="Møre" city="Kristiansund" name="Kristiansund helikopterplass, sykehuset" ident="ENKS" lat="63.10757300000000" lon="7.72326300000000" alt="2.00000000000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="34" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="63.10757300000000" lon="7.72326300000000" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="34" type="NONE" lat="63.10757300000000" lon="7.72326300000000" alt="2.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="141" groupID="17" groupGenerated="FALSE" region="Møre" country="Norway" state="Møre" city="Kristiansund" name="Kristiansund helikopterplass, sykehuset" ident="ENKS" lat="63.10757300000000" lon="7.72326300000000" alt="2.00000000000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="17" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="63.10757300000000" lon="7.72326300000000" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="17" type="NONE" lat="63.10757300000000" lon="7.72326300000000" alt="2.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="63.10757300000000" lon="7.72326300000000" alt="2.00000000000000" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="96" groupID="14" groupGenerated="FALSE" region="Sogn" country="Norway" state="Sogn" city="Stryn" name="Stryn helikopterplass, Langeset" ident="ENLG" lat="61.89909199990066" lon="6.61917100017979" alt="236.19571428000927" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="14" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="61.89909199998574" lon="6.61917100000055" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="14" type="NONE" lat="61.89909199990213" lon="6.61917100017981" alt="236.21772249694914" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="96" groupID="18" groupGenerated="FALSE" region="Sogn" country="Norway" state="Sogn" city="Stryn" name="Stryn helikopterplass, Langeset" ident="ENLG" lat="61.89909199990066" lon="6.61917100017979" alt="236.19571428000927" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="18" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="61.89909199998574" lon="6.61917100000055" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="18" type="NONE" lat="61.89909199990213" lon="6.61917100017981" alt="236.21772249694914" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="61.89909199990213" lon="6.61917100017981" alt="236.21772249694914" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="120" groupID="15" groupGenerated="FALSE" region="Innlandet" country="Norway" state="Innlandet" city="Lillehammer" name="Lillehammer helikopterplass, Sykehuset" ident="ENLH" lat="61.11326199996910" lon="10.47212600023222" alt="219.89350753463805" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="15" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="61.11326199999461" lon="10.47212600002252" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="15" type="NONE" lat="61.11326199997861" lon="10.47212600023209" alt="219.79045363608748" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="120" groupID="19" groupGenerated="FALSE" region="Innlandet" country="Norway" state="Innlandet" city="Lillehammer" name="Lillehammer helikopterplass, Sykehuset" ident="ENLH" lat="61.11326199996910" lon="10.47212600023222" alt="219.89350753463805" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="19" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="61.11326199999461" lon="10.47212600002252" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="19" type="NONE" lat="61.11326199997861" lon="10.47212600023209" alt="219.79045363608748" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="61.11326199997861" lon="10.47212600023209" alt="219.79045363608748" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="71" groupID="16" groupGenerated="FALSE" region="Viken" country="Norway" state="Viken" city="Oslo" name="Lørenskog helikopterplass, AHUS" ident="ENLX" lat="59.93214448107263" lon="10.98684447835319" alt="169.98172914329916" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="16" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.93214607776832" lon="10.98685067353515" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="16" type="NONE" lat="59.93214420569871" lon="10.98684592311371" alt="169.99454835709184" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="71" groupID="20" groupGenerated="FALSE" region="Viken" country="Norway" state="Viken" city="Oslo" name="Lørenskog helikopterplass, AHUS" ident="ENLX" lat="59.93214448107263" lon="10.98684447835319" alt="169.98172914329916" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="20" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.93214607776832" lon="10.98685067353515" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="20" type="NONE" lat="59.93214420569871" lon="10.98684592311371" alt="169.99454835709184" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="59.93214420569871" lon="10.98684592311371" alt="169.99454835709184" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="133" groupID="32" groupGenerated="FALSE" region="Møre" country="Norway" state="Møre" city="Molde" name="Molde helikopterplass, sykehuset" ident="ENMP" lat="62.73699500000000" lon="7.13560700000000" alt="2.00000000000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="32" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="62.73699500000000" lon="7.13560700000000" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="32" type="NONE" lat="62.73699500000000" lon="7.13560700000000" alt="2.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="133" groupID="21" groupGenerated="FALSE" region="Møre" country="Norway" state="Møre" city="Molde" name="Molde helikopterplass, sykehuset" ident="ENMP" lat="62.73699500000000" lon="7.13560700000000" alt="2.00000000000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="21" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="62.73699500000000" lon="7.13560700000000" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="21" type="NONE" lat="62.73699500000000" lon="7.13560700000000" alt="2.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="62.73699500000000" lon="7.13560700000000" alt="2.00000000000000" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="124" groupID="17" groupGenerated="FALSE" region="Nordland" country="Norway" state="Nordland" city="Narvik" name="Narvik helikopterplass, Djupvik" ident="ENND" lat="68.45152099992357" lon="17.53250599998054" alt="74.70631825271994" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="17" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="68.45152099999498" lon="17.53250599999943" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="17" type="NONE" lat="68.45152099992647" lon="17.53250599998053" alt="74.72993936669081" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="124" groupID="22" groupGenerated="FALSE" region="Nordland" country="Norway" state="Nordland" city="Narvik" name="Narvik helikopterplass, Djupvik" ident="ENND" lat="68.45152099992357" lon="17.53250599998054" alt="74.70631825271994" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="22" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="68.45152099999498" lon="17.53250599999943" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="22" type="NONE" lat="68.45152099992647" lon="17.53250599998053" alt="74.72993936669081" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="68.45152099992647" lon="17.53250599998053" alt="74.72993936669081" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="137" groupID="33" groupGenerated="FALSE" region="Trøndelag" country="Norway" state="Trøndelag" city="Namsos" name="Namsos helikopterplass, sykehuset" ident="ENNH" lat="64.46998499999999" lon="11.50409200000000" alt="2.00000000000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="33" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="64.46998499999999" lon="11.50409200000000" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="33" type="NONE" lat="64.46998499999999" lon="11.50409200000000" alt="2.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="137" groupID="23" groupGenerated="FALSE" region="Trøndelag" country="Norway" state="Trøndelag" city="Namsos" name="Namsos helikopterplass, sykehuset" ident="ENNH" lat="64.46998499999999" lon="11.50409200000000" alt="2.00000000000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="23" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="64.46998499999999" lon="11.50409200000000" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="23" type="NONE" lat="64.46998499999999" lon="11.50409200000000" alt="2.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="64.46998499999999" lon="11.50409200000000" alt="2.00000000000000" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="38" groupID="18" groupGenerated="FALSE" region="Svalbard" country="Norway" state="Svalbard" city="Pyramiden" name="Pyramiden Heliport" ident="ENPY" lat="78.65226091298824" lon="16.33696984610090" alt="5.66165588051081" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="18" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="78.65226091298966" lon="16.33696984611136" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="18" type="NONE" lat="78.65226091298264" lon="16.33696984610095" alt="5.50841916166246" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="38" groupID="24" groupGenerated="FALSE" region="Svalbard" country="Norway" state="Svalbard" city="Pyramiden" name="Pyramiden Heliport" ident="ENPY" lat="78.65226091298824" lon="16.33696984610090" alt="5.66165588051081" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="24" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="78.65226091298966" lon="16.33696984611136" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="24" type="NONE" lat="78.65226091298264" lon="16.33696984610095" alt="5.50841916166246" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="78.65226091298264" lon="16.33696984610095" alt="5.50841916166246" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="21" groupID="19" groupGenerated="FALSE" region="Trøndelag" country="Norway" state="Trøndelag" city="Trondheim" name="Trondheim Heliport, Rosten" ident="ENRT" lat="63.36812799993782" lon="10.37400499990764" alt="132.14120152778924" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="19" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="63.36812799999001" lon="10.37400499999896" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="19" type="NONE" lat="63.36812799992800" lon="10.37400499990762" alt="132.15891890972853" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="21" groupID="25" groupGenerated="FALSE" region="Trøndelag" country="Norway" state="Trøndelag" city="Trondheim" name="Trondheim Heliport, Rosten" ident="ENRT" lat="63.36812799993782" lon="10.37400499990764" alt="132.14120152778924" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="25" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="63.36812799999001" lon="10.37400499999896" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="25" type="NONE" lat="63.36812799992800" lon="10.37400499990762" alt="132.15891890972853" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="63.36812799992800" lon="10.37400499990762" alt="132.15891890972853" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="116" groupID="20" groupGenerated="FALSE" region="Buskerud" country="Norway" state="Buskerud" city="Hønefoss" name="Hønefoss helikopterplass, sykehuset" ident="ENRX" lat="60.14908042653980" lon="10.25513704550998" alt="126.18250492867082" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="20" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.14907926016339" lon="10.25512868844826" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="20" type="NONE" lat="60.14908019901407" lon="10.25512978328649" alt="126.20222242176533" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="116" groupID="26" groupGenerated="FALSE" region="Buskerud" country="Norway" state="Buskerud" city="Hønefoss" name="Hønefoss helikopterplass, sykehuset" ident="ENRX" lat="60.14908042653980" lon="10.25513704550998" alt="126.18250492867082" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="26" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.14907926016339" lon="10.25512868844826" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="26" type="NONE" lat="60.14908019901407" lon="10.25512978328649" alt="126.20222242176533" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="60.14908019901407" lon="10.25512978328649" alt="126.20222242176533" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="83" groupID="21" groupGenerated="FALSE" region="Rogaland" country="Norway" state="Rogaland" city="Sand" name="Suldal helikopterplass, Sand" ident="ENSC" lat="59.48360758151649" lon="6.27235590569762" alt="12.52054087072611" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="21" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.48360694846028" lon="6.27235777616408" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="21" type="NONE" lat="59.48360901256827" lon="6.27235482047186" alt="12.56183351017535" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="83" groupID="27" groupGenerated="FALSE" region="Rogaland" country="Norway" state="Rogaland" city="Sand" name="Suldal helikopterplass, Sand" ident="ENSC" lat="59.48360758151649" lon="6.27235590569762" alt="12.52054087072611" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="27" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.48360694846028" lon="6.27235777616408" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="27" type="NONE" lat="59.48360901256827" lon="6.27235482047186" alt="12.56183351017535" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="59.48360901256827" lon="6.27235482047186" alt="12.56183351017535" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="42" groupID="22" groupGenerated="FALSE" region="Nordland" country="Norway" state="Nordland" city="Sandnessjøen" name="Sandnessjøen helikopterplass, sykehuset" ident="ENSJ" lat="66.01784999999364" lon="12.61596800003428" alt="28.56754336412996" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="22" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="66.01784999999782" lon="12.61596800000208" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="22" type="NONE" lat="66.01784999999023" lon="12.61596800003439" alt="28.64672080148011" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="42" groupID="28" groupGenerated="FALSE" region="Nordland" country="Norway" state="Nordland" city="Sandnessjøen" name="Sandnessjøen helikopterplass, sykehuset" ident="ENSJ" lat="66.01784999999364" lon="12.61596800003428" alt="28.56754336412996" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="28" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="66.01784999999782" lon="12.61596800000208" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="28" type="NONE" lat="66.01784999999023" lon="12.61596800003439" alt="28.64672080148011" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="66.01784999999023" lon="12.61596800003439" alt="28.64672080148011" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="157" groupID="38" groupGenerated="FALSE" region="Nordland" country="Norway" state="Nordland" city="Stokmarknes" name="Stokmarknes helikopterplass, Nordlandssykehuset" ident="ENSK" lat="68.55865100000000" lon="14.90811700000000" alt="2.00000000000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="38" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="68.55865100000000" lon="14.90811700000000" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="38" type="NONE" lat="68.55865100000000" lon="14.90811700000000" alt="2.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="157" groupID="29" groupGenerated="FALSE" region="Nordland" country="Norway" state="Nordland" city="Stokmarknes" name="Stokmarknes helikopterplass, Nordlandssykehuset" ident="ENSK" lat="68.55865100000000" lon="14.90811700000000" alt="2.00000000000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="29" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="68.55865100000000" lon="14.90811700000000" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="29" type="NONE" lat="68.55865100000000" lon="14.90811700000000" alt="2.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="68.55865100000000" lon="14.90811700000000" alt="2.00000000000000" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="87" groupID="23" groupGenerated="FALSE" region="Viken" country="Norway" state="Viken" city="Sarpsborg" name="Sarpsborg helikopterplass, sykehuset" ident="ENSP" lat="59.31890500000500" lon="11.02377500000551" alt="66.09860627353191" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="23" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.31890499996780" lon="11.02377499999898" heading="307.859558" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="23" type="NONE" lat="59.31890499993774" lon="11.02377500000499" alt="66.23499780055135" heading="307.830353" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="87" groupID="30" groupGenerated="FALSE" region="Viken" country="Norway" state="Viken" city="Sarpsborg" name="Sarpsborg helikopterplass, sykehuset" ident="ENSP" lat="59.31890500000500" lon="11.02377500000551" alt="66.09860627353191" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="30" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.31890499996780" lon="11.02377499999898" heading="307.859558" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="30" type="NONE" lat="59.31890499993774" lon="11.02377500000499" alt="66.23499780055135" heading="307.830353" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="59.31890499993774" lon="11.02377500000499" alt="66.23499780055135" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="9" groupID="24" groupGenerated="FALSE" region="Rogaland" country="Norway" state="Rogaland" city="Stavanger" name="Stavanger Universitetssykehus" ident="ENSX" lat="58.95208300000000" lon="5.73090400000000" alt="129.57881607487798" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="24" groupIndex="2" index="0" type="RAMP_GA_SMALL" lat="58.95208937482570" lon="5.73093613205361" heading="181.259598" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking parentGroupID="24" groupIndex="3" index="1" type="RAMP_GA_SMALL" lat="58.95186719818164" lon="5.73094095682176" heading="181.259598" radius="4.000000" name="PARKING" number="1" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="24" groupIndex="1" type="NONE" lat="58.95210002288778" lon="5.73094479154863" alt="36.63064572215080" heading="181.259598" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="9" groupID="31" groupGenerated="FALSE" region="Rogaland" country="Norway" state="Rogaland" city="Stavanger" name="Stavanger Universitetssykehus" ident="ENSX" lat="58.95208300000000" lon="5.73090400000000" alt="129.57881607487798" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="31" groupIndex="2" index="0" type="RAMP_GA_SMALL" lat="58.95208937482570" lon="5.73093613205361" heading="181.259598" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="31" groupIndex="3" index="1" type="RAMP_GA_SMALL" lat="58.95186719818164" lon="5.73094095682176" heading="181.259598" radius="4.000000" name="PARKING" number="1" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="31" groupIndex="1" type="NONE" lat="58.95210002288778" lon="5.73094479154863" alt="36.63064572215080" heading="181.259598" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="58.95210002288778" lon="5.73094479154863" alt="37.36519403476268" heading="181.25959777832031"/>
-		<Helipad parentGroupID="24" type="NONE" lat="58.95186576953476" lon="5.73094161132470" alt="30.64735421724617" heading="181.259598" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<Helipad parentGroupID="31" type="NONE" lat="58.95186576953476" lon="5.73094161132470" alt="30.64735421724617" heading="181.259598" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="2" designator="NONE" lat="58.95186576953476" lon="5.73094161132470" alt="31.38190252985805" heading="181.25959777832031"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="92" groupID="25" groupGenerated="FALSE" region="Vestfold" country="Norway" state="Vestfold" city="Skien" name="Skien helikopterplass, sykehuset" ident="ENTE" lat="59.19074228019602" lon="9.59327894184139" alt="29.24896027892828" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="25" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.19074228020581" lon="9.59327894182145" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="25" type="NONE" lat="59.19074172950585" lon="9.59327608754998" alt="29.07955955248326" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="92" groupID="32" groupGenerated="FALSE" region="Vestfold" country="Norway" state="Vestfold" city="Skien" name="Skien helikopterplass, sykehuset" ident="ENTE" lat="59.19074228019602" lon="9.59327894184139" alt="29.24896027892828" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="32" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.19074228020581" lon="9.59327894182145" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="32" type="NONE" lat="59.19074172950585" lon="9.59327608754998" alt="29.07955955248326" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="59.19074172950585" lon="9.59327608754998" alt="29.07955955248326" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="75" groupID="26" groupGenerated="FALSE" region="Vestfold" country="Norway" state="Vestfold" city="Tønsberg" name="Tønsberg helikopterplass, sykehuset" ident="ENTH" lat="59.27321773625575" lon="10.41610802216610" alt="40.81881334912032" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="26" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.27321804523371" lon="10.41608513380623" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="26" type="NONE" lat="59.27321975799778" lon="10.41611068703317" alt="41.01300699915737" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="75" groupID="33" groupGenerated="FALSE" region="Vestfold" country="Norway" state="Vestfold" city="Tønsberg" name="Tønsberg helikopterplass, sykehuset" ident="ENTH" lat="59.27321773625575" lon="10.41610802216610" alt="40.81881334912032" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="33" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.27321804523371" lon="10.41608513380623" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="33" type="NONE" lat="59.27321975799778" lon="10.41611068703317" alt="41.01300699915737" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="59.27321975799778" lon="10.41611068703317" alt="41.01300699915737" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="6" groupID="27" groupGenerated="FALSE" region="Trøndelag" country="Norway" state="Trøndelag" city="Trondheim" name="St. Olavs hospital" ident="ENTR" lat="63.41987200000000" lon="10.38573500000000" alt="129.57881607487798" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="27" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="63.41987199995734" lon="10.38573499994559" heading="198.560364" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="27" type="NONE" lat="63.41987199994994" lon="10.38573500002907" alt="30.24360819160938" heading="198.560364" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="6" groupID="34" groupGenerated="FALSE" region="Trøndelag" country="Norway" state="Trøndelag" city="Trondheim" name="St. Olavs hospital" ident="ENTR" lat="63.41987200000000" lon="10.38573500000000" alt="129.57881607487798" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="34" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="63.41987199995734" lon="10.38573499994559" heading="198.560364" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="34" type="NONE" lat="63.41987199994994" lon="10.38573500002907" alt="30.24360819160938" heading="198.560364" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="63.41987199994994" lon="10.38573500002907" alt="30.97815650422126" heading="198.56036376953125"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="34" groupID="28" groupGenerated="FALSE" region="Troms" country="Norway" state="Troms" city="Tromsø" name="Tromsø helikopterplass, Universitetssykehuset" ident="ENTU" lat="69.68389099998537" lon="18.98466700004116" alt="38.49178013298661" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="28" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="69.68389099999317" lon="18.98466699999204" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="28" type="NONE" lat="69.68389099998137" lon="18.98466700004107" alt="38.46115957107395" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="34" groupID="35" groupGenerated="FALSE" region="Troms" country="Norway" state="Troms" city="Tromsø" name="Tromsø helikopterplass, Universitetssykehuset" ident="ENTU" lat="69.68389099998537" lon="18.98466700004116" alt="38.49178013298661" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="35" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="69.68389099999317" lon="18.98466699999204" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="35" type="NONE" lat="69.68389099998137" lon="18.98466700004107" alt="38.46115957107395" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="69.68389099998137" lon="18.98466700004107" alt="38.46115957107395" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="10" groupID="29" groupGenerated="FALSE" region="Nordland" country="Norway" state="Nordland" city="Sørland" name="Værøy Heliport" ident="ENVR" lat="67.65456600000000" lon="12.72698500000000" alt="129.57881607487798" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="29" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="67.65456600000053" lon="12.72698500001452" heading="214.516693" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="29" type="NONE" lat="67.65456599997277" lon="12.72698499996749" alt="1.72697903867811" heading="214.516693" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="161" groupID="40" groupGenerated="FALSE" region="Oslo" country="Norway" state="Oslo" city="Oslo" name="Oslo helikopterplass, Ullevål" ident="ENUH" lat="59.93620500000000" lon="10.73657700000000" alt="2.00000000000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="40" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.93620500000000" lon="10.73657700000000" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="40" type="NONE" lat="59.93620500000000" lon="10.73657700000000" alt="2.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="59.93620500000000" lon="10.73657700000000" alt="2.00000000000000" heading="0.00000000000000"/>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+	<Airport groupIndex="10" groupID="36" groupGenerated="FALSE" region="Nordland" country="Norway" state="Nordland" city="Sørland" name="Værøy Heliport" ident="ENVR" lat="67.65456600000000" lon="12.72698500000000" alt="129.57881607487798" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="36" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="67.65456600000053" lon="12.72698500001452" heading="214.516693" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="36" type="NONE" lat="67.65456599997277" lon="12.72698499996749" alt="1.72697903867811" heading="214.516693" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="67.65456599997277" lon="12.72698499996749" alt="2.46152735128999" heading="214.51669311523438"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="29" groupID="30" groupGenerated="FALSE" region="Trøndelag" country="Norway" state="Trøndelag" city="Verdal" name="Verdal helikopterplass, Slottelid" ident="ENVS" lat="63.80014252033121" lon="11.53401585302746" alt="34.79493801202625" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="30" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="63.80014708289628" lon="11.53401394645007" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="30" type="NONE" lat="63.80014289249115" lon="11.53401499992438" alt="34.65528566017747" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="29" groupID="37" groupGenerated="FALSE" region="Trøndelag" country="Norway" state="Trøndelag" city="Verdal" name="Verdal helikopterplass, Slottelid" ident="ENVS" lat="63.80014252033121" lon="11.53401585302746" alt="34.79493801202625" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="37" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="63.80014708289628" lon="11.53401394645007" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="37" type="NONE" lat="63.80014289249115" lon="11.53401499992438" alt="34.65528566017747" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="63.80014289249115" lon="11.53401499992438" alt="34.65528566017747" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="145" groupID="35" groupGenerated="FALSE" region="Trøndelag" country="Norway" state="Trøndelag" city="Levanger" name="Levanger helikopterplass, sykehuse" ident="ENYY" lat="63.74197200000000" lon="11.28674600000000" alt="2.00000000000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="35" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="63.74197200000000" lon="11.28674600000000" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="35" type="NONE" lat="63.74197200000000" lon="11.28674600000000" alt="2.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="145" groupID="38" groupGenerated="FALSE" region="Trøndelag" country="Norway" state="Trøndelag" city="Levanger" name="Levanger helikopterplass, sykehuse" ident="ENYY" lat="63.74197200000000" lon="11.28674600000000" alt="2.00000000000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="38" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="63.74197200000000" lon="11.28674600000000" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="38" type="NONE" lat="63.74197200000000" lon="11.28674600000000" alt="2.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="63.74197200000000" lon="11.28674600000000" alt="2.00000000000000" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>

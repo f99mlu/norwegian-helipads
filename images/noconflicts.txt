@@ -1,3 +1,4 @@
 ENBG (Bergen Heliport, Grønneviksøren)
 ENRT (Trondheim Heliport, Rosten)
 
+ENSA 
