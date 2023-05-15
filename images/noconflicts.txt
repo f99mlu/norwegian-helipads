@@ -1,11 +1,14 @@
+Add-on Conflicts
+
 ENBG (Bergen Heliport, Grønneviksøren)
 ENRT (Trondheim Heliport, Rosten)
 
 
-Dyker upp i World Map?
+MSFS Conflicts
 
-ENHR
-ENSC
-ENSJ
-ENSK
-ENSP
+ENHR --> ENZA
+ENSC --> ENZB
+ENSJ --> ENZC
+ENSK --> ENZD
+ENSP --> ENZE
+

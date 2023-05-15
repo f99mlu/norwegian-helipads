@@ -12,9 +12,9 @@ Oslo helikopterplass, Ullevål
 
 
 59.936205, 10.736577
-Oslo helikopterplass, Ullevål
-Oslo
-Oslo
-ENUH
+Nordlandssykehuset Bodø
+Bodø
+Nordland
+ENZE
 Circle
 
