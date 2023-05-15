@@ -11,7 +11,7 @@ Oslo helikopterplass, Ullevål
 
 
 
-59.936205, 10.736577
+67.283312, 14.397012
 Nordlandssykehuset Bodø
 Bodø
 Nordland
