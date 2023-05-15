@@ -877,7 +877,7 @@
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="169" groupID="41" groupGenerated="FALSE" region="Nordland" country="Norway" state="Nordland" city="Bodø" name="Nordlandssykehuset Bodø" ident="ENZE" lat="67.28331200000000" lon="14.39701200000000" alt="2.00000000000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+	<Airport groupIndex="169" groupID="41" groupGenerated="FALSE" region="Nordland" country="Norway" state="Nordland" city="Bodø" name="Nordlandssykehuset Bodø" ident="ENZF" lat="67.28331200000000" lon="14.39701200000000" alt="2.00000000000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<TaxiwayParking parentGroupID="41" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="67.28331200000000" lon="14.39701200000000" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="41" type="NONE" lat="67.28331200000000" lon="14.39701200000000" alt="2.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="67.28331200000000" lon="14.39701200000000" alt="2.00000000000000" heading="0.00000000000000"/>
