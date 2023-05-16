@@ -1,18 +1,3 @@
-Førde helikopterplass, sjukehuset
-Molde helikopterplass, sykehuset
-Namsos helikopterplass, sykehuset
-Kristiansund helikopterplass, sykehuset
-Levanger helikopterplass, sykehuse
-Harstad helikopterplass, Stangnes syd
-Isfjord Heliport
-Stokmarknes helikopterplass, Nordlandssykehuset
-Sandviken Heliport
-Oslo helikopterplass, Ullevål
-Nordlandssykehuset Bodø
-Oslo helikopterplass, Rikshospitalet
-Kristiansand helikopterplass, sykehuset
-
-
 
 58.164133, 7.981790
 Kristiansand helikopterplass, sykehuset
