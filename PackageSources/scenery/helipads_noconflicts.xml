@@ -57,6 +57,10 @@
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Light_Warm-->
+	<SceneryObject groupIndex="180" lat="60.37305399997403" lon="5.35824199999480" alt="17.12444225095942" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
 	<!--SceneryObject groupIndex="52" lat="60.37986983295823" lon="5.34607199641247" alt="19.32613178855277" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject-->
@@ -238,6 +242,11 @@
 	</SceneryObject>
 	<!--SceneryObject name: Pad_Circle-->
 	<SceneryObject groupIndex="115" lat="60.14907990899192" lon="10.25513086008172" alt="0.02396884290880" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoSnow/>
+		<LibraryObject name="{0C5909F3-788B-4E58-8A13-3918E5E75BBF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Pad_Circle-->
+	<SceneryObject groupIndex="181" lat="60.37305399998551" lon="5.35824200000062" alt="0.30384637868654" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<NoSnow/>
 		<LibraryObject name="{0C5909F3-788B-4E58-8A13-3918E5E75BBF}" scale="1.000000"/>
 	</SceneryObject>
@@ -435,6 +444,9 @@
 	<SceneryObject groupIndex="116" lat="60.14872124097859" lon="10.25472036399501" alt="-0.02940577080403" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
+	<SceneryObject groupIndex="182" lat="60.37318004520678" lon="5.35773105303774" alt="10.19517019494103" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windsock" scale="1.000000"/>
+	</SceneryObject>
 	<!--SceneryObject groupIndex="54" lat="60.37986677019263" lon="5.34657659027242" alt="0.22356063661169" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject-->
@@ -525,7 +537,7 @@
 	<SceneryObject groupIndex="38" lat="78.65258877029471" lon="16.33807311057808" alt="0.14565790581538" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
-	<Polygon groupIndex="172" altitude="120.77721333465863">
+	<Polygon groupIndex="172" altitude="120.77721405029297">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{2A91A2B6-4093-44D9-86EF-CECC88179DC8}"/>
 		<Attribute name="ExcludeDetectedBuildings" guid="{5C1A2387-1F07-47DF-A569-962CF6258E55}" type="UINT8" value="1"/>
 		<Attribute name="ExcludeOSMBuildings" guid="{F3C2635D-9F2F-458F-8663-90B3837BED09}" type="UINT8" value="1"/>
@@ -599,7 +611,7 @@
 		<Vertex lat="60.87686488107481" lon="11.57006722567038"/>
 		<Vertex lat="60.87688111954359" lon="11.56999304867427"/>
 	</Polygon>
-	<Polygon altitude="9.64272390504212">
+	<Polygon altitude="9.64272403717041">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{83D3040B-79B7-4E60-B72E-2EB414D54E03}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="VegetationDensity" guid="{41EFF715-C392-4B31-A457-50A504353A90}" type="UINT32" value="31"/>
@@ -668,6 +680,14 @@
 		<TaxiwayParking parentGroupID="7" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="74.50476798869185" lon="19.00010923127339" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="7" type="NONE" lat="74.50476798868030" lon="19.00010923127544" alt="7.47033942211419" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="74.50476798868030" lon="19.00010923127544" alt="7.47033942211419" heading="0.00000000000000"/>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+	<Airport groupIndex="183" groupID="44" groupGenerated="FALSE" region="Hordaland" country="Norway" state="Hordaland" city="Bergen" name="Bergen Heliport, Haukeland Hospital" ident="ENBX" lat="60.37305399999299" lon="5.35824199998210" alt="53.66510923299938" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="44" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.37305399999735" lon="5.35824199999949" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="44" type="NONE" lat="60.37305399999159" lon="5.35824199998213" alt="53.62843842525035" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="60.37305399999159" lon="5.35824199998213" alt="53.62843842525035" heading="0.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>

@@ -1,8 +1,8 @@
 
-58.164133, 7.981790
-Kristiansand helikopterplass, sykehuset
-Kristiansand
-Agder
-ENKH
+60.373054, 5.358242
+Bergen Heliport, Haukeland Hospital
+Bergen
+Hordaland
+ENBX
 Circle
 
