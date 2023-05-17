@@ -1,8 +1,8 @@
 
-60.373054, 5.358242
-Bergen Heliport, Haukeland Hospital
-Bergen
-Hordaland
-ENBX
+66.326611, 14.184716
+Mo i Rana, Helgelandssykehuset
+Mo i Rana
+Nordland
+ENMX
 Circle
 
