@@ -1,8 +1,8 @@
 
-66.326611, 14.184716
-Mo i Rana, Helgelandssykehuset
-Mo i Rana
-Nordland
-ENMX
+59.804144, 10.839999
+Helikopterplass for beredskapssenter, Taraldrud
+Oslo
+Oslo
+ENZG
 Circle
 
