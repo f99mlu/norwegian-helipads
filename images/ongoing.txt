@@ -1,8 +1,8 @@
 
-59.804144, 10.839999
-Helikopterplass for beredskapssenter, Taraldrud
-Oslo
-Oslo
-ENZG
+62.313964, 6.923351
+Stranda heliport, Stranda sentrum
+Stranda
+Møre
+ENZJ
 Circle
 
