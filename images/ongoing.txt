@@ -1,8 +1,8 @@
 
-62.313964, 6.923351
-Stranda heliport, Stranda sentrum
-Stranda
-Møre
-ENZJ
+60.79903553948816, 11.071898727536071
+Hamar helikopterplass, Sykehuset
+Hamar
+Innlandet
+ENZK
 Circle
 
