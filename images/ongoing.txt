@@ -1,8 +1,8 @@
 
-60.79903553948816, 11.071898727536071
-Hamar helikopterplass, Sykehuset
-Hamar
-Innlandet
-ENZK
+63.33332764546412, 8.080498983844812
+Smøla heliport, Helsesenteret
+Smøla
+Møre 
+ENZL
 Circle
 

@@ -1,7 +1,30 @@
 Add-on Conflicts
 
-ENBG (Bergen Heliport, Grønneviksøren)
+ENRT Rosten Heliport - Handcrafted by AndreasR
+https://flightsim.to/file/15982/rosten-heliport-handcrafted-norwegian-air-ambulance-heliport
 ENRT (Trondheim Heliport, Rosten)
+
+Bergen Helipads by blt950
+https://flightsim.to/file/37736/bergen-helipads
+ENBG (Bergen Heliport, Grønneviksøren)
+ENBI (Sandviken Heliport)
+ENBX (Bergen Heliport, Haukeland Hospital)
+
+Helipads in Norway by Sanderli25
+https://flightsim.to/file/37288/heliports-helipads-in-norway
+ENAX (Ålesund helikopterplass, Sykehuset)
+ENKH (Kristiansand helikopterplass, sykehuset)
+ENRH (Oslo helikopterplass, Rikshospitalet)
+ENDH (Drammen helikopterplass, sykehuset)
+
+Heli Team Harstad Heliport (Norway) by Nethiuz
+https://flightsim.to/file/45718/heli-team-harstad-heliport-norway
+ENZA (Harstad helikopterplass, Stangnes syd)
+
+Fedje Heliport by Filip13CRO
+https://flightsim.to/file/55265/fedje-heliport
+ENFJ (Fedje helikopterplass, Høgden)
+
 
 
 MSFS Conflicts
