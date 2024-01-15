@@ -141,10 +141,6 @@
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Light_Warm-->
-	<SceneryObject groupIndex="16" lat="67.65456599993610" lon="12.72698499997391" alt="16.96435004078990" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
-		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: Light_Warm-->
 	<SceneryObject groupIndex="107" lat="68.45152099995583" lon="17.53250599999590" alt="17.34678772686107" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
@@ -339,9 +335,6 @@
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="146" lat="67.28280498890386" lon="14.39701199998058" alt="13.01627697445640" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
-		<SimObject containerTitle="Windsock" scale="1.000000"/>
-	</SceneryObject>
-	<SceneryObject groupIndex="17" lat="67.65453186280345" lon="12.72543717034115" alt="0.00444514003627" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="108" lat="68.45123694845169" lon="17.53281941646062" alt="7.74501719246739" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
@@ -1275,21 +1268,6 @@
 		<Helipad parentGroupID="37" type="NONE" lat="59.93622039790036" lon="10.73654838375352" alt="91.09381818771362" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="59.93622039790036" lon="10.73654838375352" alt="91.09381818771362" heading="0.00000000000000"/>
 		<Aprons/>
-		<PaintedElements/>
-		<ApronEdgeLights/>
-	</Airport>
-	<Airport groupIndex="15" groupID="38" groupGenerated="FALSE" region="Nordland" country="Norway" state="Nordland" city="Sørland" name="Værøy Heliport" ident="ENVR" lat="67.65456599990374" lon="12.72698499985352" alt="1.09274595230818" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="38" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="67.65456600000053" lon="12.72698500001452" heading="214.516693" radius="3.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="38" type="CIRCLE" lat="67.65456599996757" lon="12.72698499996692" alt="1.21506802365184" heading="214.516693" length="18.771605" width="18.771605" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="67.65456599996757" lon="12.72698499996692" alt="1.94961633626372" heading="214.51669311523438"/>
-		<Aprons>
-			<Apron parentGroupID="38" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="2.539163" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
-				<Vertex lat="67.65427766572427" lon="12.72690821223310"/>
-				<Vertex lat="67.65444076557205" lon="12.72628501303583"/>
-				<Vertex lat="67.65485467431957" lon="12.72703298181362"/>
-				<Vertex lat="67.65469157161654" lon="12.72765618677778"/>
-			</Apron>
-		</Aprons>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
