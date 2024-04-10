@@ -2092,5 +2092,77 @@
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
+	
+	<!--SceneryObject name: Light_Warm-->
+	<SceneryObject groupIndex="650" lat="60.803780" lon="10.679222" alt="2.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Pad_Circle-->
+	<SceneryObject groupIndex="651" lat="60.803780" lon="10.679222" alt="2.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoSnow/>
+		<LibraryObject name="{0C5909F3-788B-4E58-8A13-3918E5E75BBF}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="652" lat="60.803780" lon="10.679222" alt="2.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windsock" scale="1.000000"/>
+	</SceneryObject>
+	<Airport groupIndex="653" groupID="575" groupGenerated="FALSE" region="Innlandet" country="Norway" state="Innlandet" city="Gjøvik" name="Gjøvik heliport, sykehuset" ident="ENZM" lat="60.803780" lon="10.679222" alt="2.00000000000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="575" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.803780" lon="10.679222" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="575" type="NONE" lat="60.803780" lon="10.679222" alt="2.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="60.803780" lon="10.679222" alt="2.00000000000000" heading="0.000000"/>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+
+	<!--SceneryObject name: Runway-Lamp-->
+	<SceneryObject groupIndex="654" lat="60.80378" lon="10.679783303987568" alt="2.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{89FA5011-98A1-4606-AC22-13CB5B96DA64}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Runway-Lamp-->
+	<SceneryObject groupIndex="655" lat="60.8036421737479" lon="10.67970810351248" alt="2.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{89FA5011-98A1-4606-AC22-13CB5B96DA64}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Runway-Lamp-->
+	<SceneryObject groupIndex="656" lat="60.803541277928744" lon="10.679502651993785" alt="2.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{89FA5011-98A1-4606-AC22-13CB5B96DA64}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Runway-Lamp-->
+	<SceneryObject groupIndex="657" lat="60.803504347495796" lon="10.679222" alt="2.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{89FA5011-98A1-4606-AC22-13CB5B96DA64}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Runway-Lamp-->
+	<SceneryObject groupIndex="658" lat="60.803541277928744" lon="10.678941348006214" alt="2.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{89FA5011-98A1-4606-AC22-13CB5B96DA64}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Runway-Lamp-->
+	<SceneryObject groupIndex="659" lat="60.8036421737479" lon="10.678735896487519" alt="2.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{89FA5011-98A1-4606-AC22-13CB5B96DA64}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Runway-Lamp-->
+	<SceneryObject groupIndex="660" lat="60.80378" lon="10.67866069601243" alt="2.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{89FA5011-98A1-4606-AC22-13CB5B96DA64}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Runway-Lamp-->
+	<SceneryObject groupIndex="661" lat="60.8039178262521" lon="10.678735896487519" alt="2.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{89FA5011-98A1-4606-AC22-13CB5B96DA64}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Runway-Lamp-->
+	<SceneryObject groupIndex="662" lat="60.80401872207126" lon="10.678941348006214" alt="2.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{89FA5011-98A1-4606-AC22-13CB5B96DA64}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Runway-Lamp-->
+	<SceneryObject groupIndex="663" lat="60.80405565250421" lon="10.679222" alt="2.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{89FA5011-98A1-4606-AC22-13CB5B96DA64}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Runway-Lamp-->
+	<SceneryObject groupIndex="664" lat="60.80401872207126" lon="10.679502651993785" alt="2.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{89FA5011-98A1-4606-AC22-13CB5B96DA64}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Runway-Lamp-->
+	<SceneryObject groupIndex="665" lat="60.8039178262521" lon="10.67970810351248" alt="2.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{89FA5011-98A1-4606-AC22-13CB5B96DA64}" scale="1.000000"/>
+	</SceneryObject>
+
+
 </FSData>
 
