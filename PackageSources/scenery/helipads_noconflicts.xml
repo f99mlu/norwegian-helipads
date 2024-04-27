@@ -157,6 +157,10 @@
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Light_Warm-->
+	<SceneryObject groupIndex="191" lat="69.23502399990068" lon="18.01091919058033" alt="16.95035041722701" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
 	<SceneryObject groupIndex="31" lat="69.68389099994012" lon="18.98466700001600" alt="16.36969390325248" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
@@ -351,6 +355,9 @@
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="43" lat="68.79556663170531" lon="16.52498107110742" alt="0.30305897618206" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windsock" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="192" lat="69.23482483233364" lon="18.01178913218306" alt="8.25155555547242" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="32" lat="69.68390735209347" lon="18.98394917235203" alt="0.04870546888560" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
@@ -1720,9 +1727,9 @@
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="190" groupID="53" groupGenerated="FALSE" region="Innlandet" country="Norway" state="Innlandet" city="Gjøvik" name="Gjøvik heliport, sykehuset" ident="ENZM" lat="60.80377708342003" lon="10.67922144235286" alt="180.81415226496756" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="53" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.80377696882292" lon="10.67922199999996" heading="-115.758621" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="53" type="MEDICAL" lat="60.80377704470187" lon="10.67922302623699" alt="180.83093424793333" heading="-115.758621" length="5.242537" width="5.242537" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="60.80377704470187" lon="10.67922302623699" alt="180.83093424793333" heading="0.00000000000000"/>
+		<TaxiwayParking parentGroupID="53" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.80377696882292" lon="10.67922199999996" heading="244.241379" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="53" type="MEDICAL" lat="60.80377704470187" lon="10.67922302623699" alt="180.83093424793333" heading="244.241379" length="5.242537" width="5.242537" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="60.80377704470187" lon="10.67922302623699" alt="180.83093424793333" heading="244.241379"/>
 		<Aprons>
 			<Apron parentGroupID="53" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="60.80372177344577" lon="10.67919615027264"/>
@@ -1757,6 +1764,21 @@
 				<Vertex lat="60.80372359709586" lon="10.67926287381130"/>
 				<Vertex lat="60.80372084566141" lon="10.67924102280027"/>
 				<Vertex lat="60.80372022989093" lon="10.67921849301347"/>
+			</Apron>
+		</Aprons>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+	<Airport groupIndex="193" groupID="54" groupGenerated="FALSE" region="Troms" country="Norway" state="Troms" city="Finnsnes" name="Finnsnes legekontor" ident="ENZN" lat="69.23501246271806" lon="18.01091344680296" alt="42.94352460373193" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="54" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="69.23501214173231" lon="18.01091108439639" heading="36.229706" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="54" type="MEDICAL" lat="69.23501224912795" lon="18.01091323386372" alt="42.93835501372814" heading="36.229691" length="6.904555" width="6.904555" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="69.23501224912795" lon="18.01091323386372" alt="42.93835501372814" heading="36.229706"/>
+		<Aprons>
+			<Apron parentGroupID="54" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="5.697417" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="69.23515147603615" lon="18.01078483245051"/>
+				<Vertex lat="69.23503026523703" lon="18.01129971599768"/>
+				<Vertex lat="69.23487989934726" lon="18.01101857216243"/>
+				<Vertex lat="69.23500110931026" lon="18.01050369060872"/>
 			</Apron>
 		</Aprons>
 		<PaintedElements/>
