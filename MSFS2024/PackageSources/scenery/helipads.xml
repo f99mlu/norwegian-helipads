@@ -80,7 +80,6 @@
 	</Polygon>
 
 <Airport groupIndex="135" groupID="17" groupGenerated="FALSE" region="Svalbard" country="Norway" state="Svalbard" city="Isfjord" name="Isfjord Heliport" ident="ENIS" lat="78.06130199999487" lon="13.62262300000025" alt="4.33133273664862" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="17" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="78.06130199999890" lon="13.62262299999994" heading="0.000000" radius="3.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="17" type="NONE" lat="78.06130199999426" lon="13.62262300000030" alt="4.33884942252189" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="78.06130199999426" lon="13.62262300000030" alt="4.33884942252189" heading="0.00000000000000"/>
 		<Aprons/>
@@ -89,7 +88,6 @@
 	</Airport>
 
 	<Airport groupIndex="131" groupID="41" groupGenerated="FALSE" region="Troms" country="Norway" state="Troms" city="Harstad" name="Harstad helikopterplass, Stangnes syd" ident="ENZA" lat="68.77966199999152" lon="16.59551000000176" alt="0.41976566053927" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="41" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="68.77966199999884" lon="16.59550999999744" heading="0.000000" radius="3.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="41" type="CIRCLE" lat="68.77966062822833" lon="16.59551043607413" alt="0.40593740064651" heading="25.179287" length="8.569389" width="8.569389" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="68.77966062822833" lon="16.59551043607413" alt="0.40593740064651" heading="0.00000000000000"/>
 		<Aprons>
@@ -105,7 +103,6 @@
 	</Airport>
 
 <Airport groupIndex="193" groupID="54" groupGenerated="FALSE" region="Troms" country="Norway" state="Troms" city="Finnsnes" name="Finnsnes legekontor" ident="ENZN" lat="69.23501246271806" lon="18.01091344680296" alt="42.94352460373193" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="54" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="69.23501214173231" lon="18.01091108439639" heading="36.229706" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="54" type="MEDICAL" lat="69.23501224912795" lon="18.01091323386372" alt="42.93835501372814" heading="36.229691" length="6.904555" width="6.904555" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="69.23501224912795" lon="18.01091323386372" alt="42.93835501372814" heading="36.229706"/>
 		<Aprons>
@@ -121,7 +118,6 @@
 	</Airport>
 	
 		<Airport groupIndex="148" groupID="46" groupGenerated="FALSE" region="Nordland" country="Norway" state="Nordland" city="Bodø" name="Nordlandssykehuset Bodø" ident="ENZF" lat="67.28331199999003" lon="14.39701199993930" alt="37.13510981202126" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="46" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="67.28331199999781" lon="14.39701199997068" heading="0.000000" radius="3.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="46" type="NONE" lat="67.28331199998202" lon="14.39701199993964" alt="36.92370446119457" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="67.28331199998202" lon="14.39701199993964" alt="36.92370446119457" heading="0.00000000000000"/>
 		<Aprons/>
@@ -130,7 +126,6 @@
 	</Airport>
 	
 		<Airport groupIndex="30" groupID="39" groupGenerated="FALSE" region="Trøndelag" country="Norway" state="Trøndelag" city="Verdal" name="Verdal helikopterplass, Slottelid" ident="ENVS" lat="63.80014112232087" lon="11.53401585302804" alt="33.89014905970544" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="39" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="63.80014210152425" lon="11.53401418059876" heading="0.000000" radius="3.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="39" type="CIRCLE" lat="63.80014289247451" lon="11.53401499992480" alt="33.86683948058635" heading="0.000000" length="7.972470" width="7.972470" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="63.80014289247451" lon="11.53401499992480" alt="33.86683948058635" heading="0.00000000000000"/>
 		<Aprons>
