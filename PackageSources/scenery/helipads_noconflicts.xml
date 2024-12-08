@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
 	<!--SceneryObject name: Light_Warm-->
+	<!--SceneryObject name: Light_Warm-->
 	<SceneryObject groupIndex="51" lat="58.46745999996595" lon="8.75406100001387" alt="22.67907367078121" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
@@ -41,6 +42,15 @@
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Light_Warm-->
+	<SceneryObject groupIndex="197" lat="59.66263099995844" lon="10.62530400001094" alt="17.09166172870597" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+	<SceneryObject groupIndex="194" lat="59.67621699994108" lon="10.60429499998457" alt="17.25495197799824" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+	<!--SceneryObject name: Light_Warm-->
 	<SceneryObject groupIndex="165" lat="59.80361399992920" lon="10.84008704576676" alt="18.21986478285467" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
@@ -61,6 +71,7 @@
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Light_Warm-->
+	<!--SceneryObject name: Light_Warm-->
 	<SceneryObject groupIndex="102" lat="60.14910143461007" lon="10.25517328956740" alt="47.05341169651174" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="2.789164"/>
 	</SceneryObject>
@@ -69,9 +80,13 @@
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Light_Warm-->
+	<!--SceneryObject name: Light_Warm-->
+	<!--SceneryObject name: Light_Warm-->
+	<!--SceneryObject name: Light_Warm-->
 	<SceneryObject groupIndex="21" lat="60.62994199958768" lon="8.56690500000785" alt="16.14458320975933" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
 	<!--SceneryObject name: Light_Warm-->
 	<SceneryObject groupIndex="181" lat="60.79903553943942" lon="11.07189872754958" alt="17.74350018269314" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
@@ -105,6 +120,7 @@
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Light_Warm-->
+	<!--SceneryObject name: Light_Warm-->
 	<SceneryObject groupIndex="116" lat="62.73699499985229" lon="7.13560699998571" alt="16.83810160653132" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
@@ -116,6 +132,7 @@
 	<SceneryObject groupIndex="185" lat="63.33334665948102" lon="8.08050413583663" alt="17.35012860659863" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
 	<!--SceneryObject name: Light_Warm-->
 	<SceneryObject groupIndex="11" lat="63.41987199997326" lon="10.38573500001581" alt="39.80760516002312" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
@@ -145,6 +162,7 @@
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Light_Warm-->
+	<!--SceneryObject name: Light_Warm-->
 	<SceneryObject groupIndex="108" lat="68.45152099995583" lon="17.53250599999590" alt="17.34678772686107" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
@@ -152,6 +170,7 @@
 	<SceneryObject groupIndex="136" lat="68.55865099998266" lon="14.90811700000540" alt="16.83479732187735" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
 	<!--SceneryObject name: Light_Warm-->
 	<SceneryObject groupIndex="42" lat="68.79574199997583" lon="16.52563100001762" alt="17.18380430008298" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
@@ -204,6 +223,7 @@
 		<NoSnow/>
 		<LibraryObject name="{0C5909F3-788B-4E58-8A13-3918E5E75BBF}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Pad_Circle-->
 	<!--SceneryObject name: Pad_Circle-->
 	<SceneryObject groupIndex="182" lat="60.79903553939756" lon="11.07189872753446" alt="0.09011354716193" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<NoSnow/>
@@ -274,6 +294,12 @@
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="176" lat="59.52733060669298" lon="7.36786127648426" alt="0.01780575042767" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windsock" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="198" lat="59.66273370602629" lon="10.62582480865916" alt="-0.04778507961484" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windsock" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="195" lat="59.67591351111067" lon="10.60454458993110" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="166" lat="59.80384092653767" lon="10.84101844406031" alt="-0.04478710626697" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
@@ -414,7 +440,7 @@
 		<Vertex lat="66.32643568996160" lon="14.18502504826566"/>
 		<Vertex lat="66.32677424197297" lon="14.18517992931828"/>
 	</Polygon>
-	<Polygon altitude="181.51670725347219">
+	<Polygon altitude="181.51670837402344">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{8837A94D-1C5B-435D-BE11-B2688452FB7D}"/>
 		<Attribute name="ExcludeDetectedBuildings" guid="{5C1A2387-1F07-47DF-A569-962CF6258E55}" type="UINT8" value="1"/>
 		<Attribute name="ExcludeOSMBuildings" guid="{F3C2635D-9F2F-458F-8663-90B3837BED09}" type="UINT8" value="1"/>
@@ -1343,6 +1369,22 @@
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
+	<Airport groupIndex="196" groupID="55" groupGenerated="FALSE" region="Viken" country="Norway" state="Viken" city="Oslo" name="Oscarsborg Hotel" ident="ENWA" lat="59.67621699998337" lon="10.60429500000197" alt="0.04617130756378" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="55" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.67621699999881" lon="10.60429500000001" heading="-5.879270" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="55" type="H" lat="59.67621699993547" lon="10.60429500000223" alt="0.03691955097020" heading="-5.879270" length="11.655316" width="11.655316" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="59.67621699993547" lon="10.60429500000223" alt="0.03691955097020" heading="0.00000000000000"/>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+	<Airport groupIndex="199" groupID="56" groupGenerated="FALSE" region="Viken" country="Norway" state="Viken" city="Oslo" name="Drøbak Marina" ident="ENWB" lat="59.66264642173642" lon="10.62526860841954" alt="0.06860387139022" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="56" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.66264730412824" lon="10.62526688702355" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="56" type="CIRCLE" lat="59.66265152419432" lon="10.62526448666271" alt="0.00664451438934" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="59.66265152419432" lon="10.62526448666271" alt="0.00664451438934" heading="0.00000000000000"/>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
 	<Airport groupIndex="128" groupID="40" groupGenerated="FALSE" region="Trøndelag" country="Norway" state="Trøndelag" city="Levanger" name="Levanger helikopterplass, sykehuse" ident="ENYY" lat="63.74197199999413" lon="11.28674600000114" alt="10.79957706108689" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<TaxiwayParking parentGroupID="40" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="63.74197199999793" lon="11.28674599999971" heading="0.000000" radius="3.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="40" type="NONE" lat="63.74197199999387" lon="11.28674600000111" alt="10.81732611265033" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -1729,7 +1771,7 @@
 	<Airport groupIndex="190" groupID="53" groupGenerated="FALSE" region="Innlandet" country="Norway" state="Innlandet" city="Gjøvik" name="Gjøvik heliport, sykehuset" ident="ENZM" lat="60.80377708342003" lon="10.67922144235286" alt="180.81415226496756" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<TaxiwayParking parentGroupID="53" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.80377696882292" lon="10.67922199999996" heading="244.241379" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="53" type="MEDICAL" lat="60.80377704470187" lon="10.67922302623699" alt="180.83093424793333" heading="244.241379" length="5.242537" width="5.242537" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="60.80377704470187" lon="10.67922302623699" alt="180.83093424793333" heading="244.241379"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="60.80377704470187" lon="10.67922302623699" alt="180.83093424793333" heading="244.24137878417969"/>
 		<Aprons>
 			<Apron parentGroupID="53" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="60.80372177344577" lon="10.67919615027264"/>
@@ -1772,7 +1814,7 @@
 	<Airport groupIndex="193" groupID="54" groupGenerated="FALSE" region="Troms" country="Norway" state="Troms" city="Finnsnes" name="Finnsnes legekontor" ident="ENZN" lat="69.23501246271806" lon="18.01091344680296" alt="42.94352460373193" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<TaxiwayParking parentGroupID="54" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="69.23501214173231" lon="18.01091108439639" heading="36.229706" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="54" type="MEDICAL" lat="69.23501224912795" lon="18.01091323386372" alt="42.93835501372814" heading="36.229691" length="6.904555" width="6.904555" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="69.23501224912795" lon="18.01091323386372" alt="42.93835501372814" heading="36.229706"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="69.23501224912795" lon="18.01091323386372" alt="42.93835501372814" heading="36.22970581054688"/>
 		<Aprons>
 			<Apron parentGroupID="54" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="5.697417" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="69.23515147603615" lon="18.01078483245051"/>
