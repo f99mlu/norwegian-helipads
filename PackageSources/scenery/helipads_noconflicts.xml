@@ -6,9 +6,6 @@
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Light_Warm-->
-	<SceneryObject groupIndex="172" lat="58.79009999961441" lon="7.35584100000005" alt="16.99395937561656" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
-		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
-	</SceneryObject>
 	<!--SceneryObject name: Light_Warm-->
 	<SceneryObject groupIndex="111" lat="58.95186670748834" lon="5.73094726707903" alt="17.25106632138660" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
@@ -264,9 +261,6 @@
 		<LibraryObject name="{C5B49D55-1C7D-4C91-B8F0-F3BEC29DD86B}" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="53" lat="58.46772467383121" lon="8.75447682684304" alt="7.93354685733453" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
-		<SimObject containerTitle="Windsock" scale="1.000000"/>
-	</SceneryObject>
-	<SceneryObject groupIndex="173" lat="58.79026591814413" lon="7.35631024146525" alt="0.24151769092214" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="13" lat="58.95247721847511" lon="5.73106849005776" alt="12.45704422409615" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
@@ -1591,49 +1585,6 @@
 				<Vertex lat="60.36150676873096" lon="6.74123713353069"/>
 				<Vertex lat="60.36152134007585" lon="6.74122140987466"/>
 				<Vertex lat="60.36153715091345" lon="6.74121172725558"/>
-			</Apron>
-		</Aprons>
-		<PaintedElements/>
-		<ApronEdgeLights/>
-	</Airport>
-	<Airport groupIndex="174" groupID="49" groupGenerated="FALSE" region="Agder" country="Norway" state="Agder" city="Ljosland" name="Åseral helikopterplass, Ljosland" ident="ENZI" lat="58.79009999975858" lon="7.35584099999605" alt="529.13507295772433" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="49" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="58.79009999997487" lon="7.35584099999998" heading="0.000000" radius="3.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="49" type="CIRCLE" lat="58.79009999981579" lon="7.35584099999599" alt="529.22468254715204" heading="0.000000" length="5.950495" width="5.950495" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="58.79009999981579" lon="7.35584099999599" alt="529.22468254715204" heading="0.00000000000000"/>
-		<Aprons>
-			<Apron parentGroupID="49" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
-				<Vertex lat="58.79009880482808" lon="7.35570862691214"/>
-				<Vertex lat="58.79011217097111" lon="7.35571116282622"/>
-				<Vertex lat="58.79012502346535" lon="7.35571867321988"/>
-				<Vertex lat="58.79013686839602" lon="7.35573086947767"/>
-				<Vertex lat="58.79014725056787" lon="7.35574728290745"/>
-				<Vertex lat="58.79015577099815" lon="7.35576728275137"/>
-				<Vertex lat="58.79016210225036" lon="7.35579010042551"/>
-				<Vertex lat="58.79016600101647" lon="7.35581485905619"/>
-				<Vertex lat="58.79016731746854" lon="7.35584060717826"/>
-				<Vertex lat="58.79016600101537" lon="7.35586635530010"/>
-				<Vertex lat="58.79016210224809" lon="7.35589111393011"/>
-				<Vertex lat="58.79015577099497" lon="7.35591393160319"/>
-				<Vertex lat="58.79014725056362" lon="7.35593393144569"/>
-				<Vertex lat="58.79013686839099" lon="7.35595034487371"/>
-				<Vertex lat="58.79012502345977" lon="7.35596254112951"/>
-				<Vertex lat="58.79011217096511" lon="7.35597005152099"/>
-				<Vertex lat="58.79009880482212" lon="7.35597258743283"/>
-				<Vertex lat="58.79008543868446" lon="7.35597005141698"/>
-				<Vertex lat="58.79007258620506" lon="7.35596254093681"/>
-				<Vertex lat="58.79006074129671" lon="7.35595034462066"/>
-				<Vertex lat="58.79005035915132" lon="7.35593393116934"/>
-				<Vertex lat="58.79004183874748" lon="7.35591393134377"/>
-				<Vertex lat="58.79003550751816" lon="7.35589111372493"/>
-				<Vertex lat="58.79003160876775" lon="7.35586635517796"/>
-				<Vertex lat="58.79003029232216" lon="7.35584060715518"/>
-				<Vertex lat="58.79003160877114" lon="7.35581485913307"/>
-				<Vertex lat="58.79003550752503" lon="7.35579010058806"/>
-				<Vertex lat="58.79004183875745" lon="7.35576728297242"/>
-				<Vertex lat="58.79005035916401" lon="7.35574728315115"/>
-				<Vertex lat="58.79006074131166" lon="7.35573086970508"/>
-				<Vertex lat="58.79007258622173" lon="7.35571867339491"/>
-				<Vertex lat="58.79008543870211" lon="7.35571116292122"/>
 			</Apron>
 		</Aprons>
 		<PaintedElements/>
