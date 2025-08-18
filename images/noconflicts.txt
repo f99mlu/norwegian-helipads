@@ -29,6 +29,18 @@ Værøy Heliport by P3r
 https://flightsim.to/file/868/envy-vaeroy
 ENVR (Værøy Heliport)
 
+ENLX - Lørenskog Heliport by NORDSCAPE
+https://sv.flightsim.to/file/94145/enlx-lorenskog-heliport
+ENLX (Lørenskog helikopterplass, AHUS)
+
+ENKH - Kristiansand hospital by NORDSCAPE
+https://sv.flightsim.to/file/92480/enkh-kristiansand-hospital
+ENKH (Kristiansand helikopterplass, sykehuset)
+
+Hovden heliport/seaplane base + Ljosland helipad by NORDSCAPE
+https://flightsim.to/file/95166/hovden-heli-seaplane-base-ljosland-helibase
+ENZH (Bykle Heliport, Hovden)
+
 
 MSFS Conflicts
 
