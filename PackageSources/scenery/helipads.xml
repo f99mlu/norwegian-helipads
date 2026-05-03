@@ -133,6 +133,10 @@
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Light_Warm-->
+	<SceneryObject groupIndex="200" lat="61.91152057251961" lon="5.98278038915984" alt="17.33222118931087" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
 	<SceneryObject groupIndex="92" lat="62.06885499972712" lon="9.12129400001920" alt="16.52883064801335" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
@@ -394,6 +398,9 @@
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="86" lat="61.89923169213781" lon="6.61839051749089" alt="-0.01771686133031" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windsock" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="201" lat="61.91186795165135" lon="5.98273643320617" alt="3.91109965684014" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="93" lat="62.06909868723307" lon="9.12113822770641" alt="-0.08003036430705" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
@@ -727,7 +734,7 @@
 		<Vertex lat="63.33353200046547" lon="8.07983290302599"/>
 		<Vertex lat="63.33320948001111" lon="8.07952435341857"/>
 	</Polygon>
-	<Polygon groupIndex="2" altitude="1.88575201760978">
+	<Polygon groupIndex="2" altitude="1.88575196266174">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{83D3040B-79B7-4E60-B72E-2EB414D54E03}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="VegetationDensity" guid="{41EFF715-C392-4B31-A457-50A504353A90}" type="UINT32" value="31"/>
@@ -1194,6 +1201,14 @@
 				<Vertex lat="63.10755225578311" lon="7.72302937580918"/>
 			</Apron>
 		</Aprons>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+	<Airport groupIndex="202" groupID="57" groupGenerated="FALSE" region="Vestland" country="Norway" state="Vestland" city="Nordfjordeid" name="Nordfjordeid helikopterplass" ident="ENKX" lat="61.91153625720912" lon="5.98275021654016" alt="0.85026606637985" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="57" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="61.91153798680101" lon="5.98275003764948" heading="-29.890594" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="57" type="H" lat="61.91153841895353" lon="5.98274828373511" alt="0.80838409811258" heading="-29.890594" length="9.951589" width="9.951589" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="61.91153841895353" lon="5.98274828373511" alt="0.80838409811258" heading="-29.890594"/>
+		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
